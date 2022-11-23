@@ -5,7 +5,7 @@
 * Discord - dishan#9708
 * Telegram - @dishan88
 * Twitter - @AnuradhaDishan
-* email - dishananuradha@gmail.com
+* Email - dishananuradha@gmail.com
 
 <!---
 dishananuradha/dishananuradha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
