@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dishananuradha
+- 👋 Hi, I’m Dishan Anuradha
 - 👨‍💻 I’m interested in web development, blockchain & cryptography and web 3.0.
 - 📚 I’m currently learning Javascript.
 - 📫 you can reach me on
